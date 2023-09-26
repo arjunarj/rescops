@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1008867138851",
+    "project_id": "chat-bot-uor9",
+    "storage_bucket": "chat-bot-uor9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008867138851:android:75481b232643a277fe8096",
+        "android_client_info": {
+          "package_name": "com.fullmetal.riskops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008867138851-l19cflvr8j4c6pot1inhl0nmkc7irnmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fullmetal.riskops",
+            "certificate_hash": "9907e22d85b0b91f1e4fea9eebb8402931953df1"
+          }
+        },
+        {
+          "client_id": "1008867138851-ilh824uqvirfjua1sb6tp6hk3m0ioh01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxfIZ7Gniz-lIyvL-HsuU2qmbOH01VB_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008867138851-ilh824uqvirfjua1sb6tp6hk3m0ioh01.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008867138851-76kon7et51ejobi37h0b56169709dtt7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.skanmed"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
